@@ -1,7 +1,11 @@
 # AbilityDesigner
 ## Version 0.5
 
-![Editor Preview](http://marian-brinkmann.com/wp-content/uploads/2019/04/fullEditor.png)
+![Editor Preview](https://marian-brinkmann.com/wp-content/uploads/2021/07/ability_designer_github.png)
+
+### About
+
+This project was developed during my last semester at uni and sadly abandoned. No updates will come out and I don't garuantee that it works with newer versions of unity than 2018.4. However, I am working on a new and better version with all the things I learned since then so stay tuned.
 
 ### Introduction
 What is an ability? The swinging of a sword? The casting of a spell? Or is it the monster running alongside the character?
